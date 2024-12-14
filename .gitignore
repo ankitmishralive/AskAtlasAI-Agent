@@ -1,0 +1,8 @@
+
+/venv
+/.env
+/demographics 
+/.idea
+/__pycache__
+/test.py 
+/testto.py

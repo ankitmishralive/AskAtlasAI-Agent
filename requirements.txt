@@ -1,0 +1,7 @@
+
+llama-index 
+pypdf 
+python-dotenv 
+pandas 
+
+llama-index-llms-ollama
